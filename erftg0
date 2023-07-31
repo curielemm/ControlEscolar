@@ -1,0 +1,400 @@
+[33mcommit 912ef7636e5ff9d1191069710fd3ecd39f03cf26[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 92777ab d6d5787
+Author: Eden Figueroa Diaz <efigueroadiaz96@gmail.com>
+Date:   Tue Sep 29 21:01:48 2020 -0500
+
+    Merge branch 'master' of https://gitlab.com/controlescolars/controlescolar
+
+[33mcommit 92777ab8d44cdbe0f7b167770d99b9289b8e8f72[m
+Author: Eden Figueroa Diaz <efigueroadiaz96@gmail.com>
+Date:   Tue Sep 29 20:59:18 2020 -0500
+
+    director
+
+[33mcommit d6d5787a219d04fc758bdb47145423faec08bc70[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Tue Sep 29 18:49:11 2020 -0500
+
+    plan de estudios
+
+[33mcommit 2875e0aad4a8288c56fec6910b03c239f9bfd43a[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Mon Sep 28 15:41:21 2020 -0500
+
+    update alumno
+
+[33mcommit d12fc4fe6e8825e59ffb38cf5491a8b7afcdbfb3[m
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Mon Sep 28 14:07:05 2020 -0500
+
+    Checar Editar Alumnos
+
+[33mcommit a5b0529e22e2fefe5615bdf4dd162a2f73ba4bfa[m
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Sun Sep 27 20:00:23 2020 -0500
+
+    Agregar Alumnos, eliminar alumno, editar en desarrollo y listar problema de diseño
+
+[33mcommit e58eafd82d9830981c01fcd0063013f57bfe6138[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Sun Sep 27 11:50:22 2020 -0500
+
+    roles usuarios
+
+[33mcommit 175dbd0d539ea9fc7087e0c27b4173fcc25ec061[m
+Merge: b88d26c c7810d6
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Sun Sep 27 08:38:51 2020 -0500
+
+    Merge branch 'master' of gitlab.com:controlescolars/controlescolar
+
+[33mcommit b88d26c5e14a6899b9bcc68d16c75088133ffead[m
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Sun Sep 27 08:36:17 2020 -0500
+
+    cambios
+
+[33mcommit c7810d6521bc4747670a96b55221aca1e9b2e099[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Sat Sep 26 22:33:55 2020 -0500
+
+    usuario
+
+[33mcommit 7f578bf2ab80b18ff361ea558a7f0c710863df7d[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Sat Sep 26 15:45:36 2020 -0500
+
+    usuarios
+
+[33mcommit e3191396980bffef2a170522952be4d9c501e8cb[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Wed Sep 23 19:17:40 2020 -0500
+
+    actualizacion de roles
+
+[33mcommit 9e1f8c8e86098e5db6268083c5941a33543a3956[m
+Merge: 6d16938 32123b5
+Author: curiel_ <curielemm@gmail.com>
+Date:   Mon Aug 17 11:37:37 2020 -0500
+
+    Merge branch 'master' of https://gitlab.com/controlescolars/controlescolar
+
+[33mcommit 6d16938e0c3d719b9e3dc84934e50d5cb20581b0[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Mon Aug 17 11:37:19 2020 -0500
+
+    dashboard
+
+[33mcommit 32123b592b1fe16b47b77ffd9445b6766025d77a[m
+Author: Eden Figueroa Diaz <efigueroadiaz96@gmail.com>
+Date:   Mon Aug 17 16:03:16 2020 +0000
+
+    sql
+
+[33mcommit d3122b362b33eb5462d44a3a5b6a4a2d6478ebbe[m
+Author: Eden Figueroa Diaz <efigueroadiaz96@gmail.com>
+Date:   Mon Aug 17 16:02:22 2020 +0000
+
+    diagrama
+
+[33mcommit c39562f49523608688b52cf8aaefd299aede96a0[m
+Merge: 88161bd 55f8eaf
+Author: curiel_ <curielemm@gmail.com>
+Date:   Tue Jul 21 11:57:27 2020 -0500
+
+    Merge branch 'master' of https://gitlab.com/controlescolars/controlescolar
+
+[33mcommit 88161bd4a9db732f53f2a54b59556835b2eeedb8[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Tue Jul 21 11:56:55 2020 -0500
+
+    migraciones
+
+[33mcommit 55f8eaf161bde1f7798c03d1c5092cbf4e0badc9[m
+Merge: 6697c4d 954b183
+Author: Eden Figueroa Diaz <efigueroadiaz96@gmail.com>
+Date:   Thu Jul 2 15:57:34 2020 -0500
+
+    Merge branch 'master' of https://gitlab.com/controlescolars/controlescolar
+
+[33mcommit 6697c4d8045fbc8038ecaad709acdc22e59155fb[m
+Author: Eden Figueroa Diaz <efigueroadiaz96@gmail.com>
+Date:   Thu Jul 2 15:55:59 2020 -0500
+
+    funcionfaltante
+
+[33mcommit 954b1839690460a2803b2e8c7198bce3bd8543dc[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Sat Jun 27 00:11:06 2020 -0500
+
+    barra en el css
+
+[33mcommit 96f6f2d2660c247d3f5796a019d6d9a72fadbf78[m
+Merge: 20ef980 f40d98e
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Thu Jun 25 21:04:01 2020 -0500
+
+    Merge branch 'master' of gitlab.com:controlescolars/controlescolar
+
+[33mcommit 20ef98071624d11ca57fc7b6944c76f269276eda[m
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Thu Jun 25 21:03:18 2020 -0500
+
+    nada de cambios
+
+[33mcommit f40d98e8e2d8ca2bc4cb0a950f124009b1f6ec48[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Mon Jun 22 18:36:46 2020 -0500
+
+    restricciones y rutas
+
+[33mcommit 1b6691bd0bbd257fe733649e76935f842f624881[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Thu Jun 18 00:09:13 2020 -0500
+
+    Role Control Escolar
+
+[33mcommit 237805438a89b178b0b7b315751b0359a4b43d28[m
+Merge: e63a2da 1d23b48
+Author: curiel_ <curielemm@gmail.com>
+Date:   Wed Jun 17 22:19:06 2020 -0500
+
+    Merge branch 'master' of https://gitlab.com/controlescolars/controlescolar
+
+[33mcommit e63a2da2c248b832ea213d7a959b3f2e15a5ce38[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Wed Jun 17 22:18:44 2020 -0500
+
+    Roles
+
+[33mcommit 1d23b480d409719e0d30af0c31135680fea632d9[m
+Merge: 938a015 c84b92c
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Wed Jun 17 16:31:20 2020 -0500
+
+    Listar, Editar y Eliminar Alumnos
+
+[33mcommit 938a015d6f2f5b7683294c1045e10b56fe786d04[m
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Wed Jun 17 16:27:49 2020 -0500
+
+    Listar, Editar y Eliminar Alumnos
+
+[33mcommit c84b92c60ee79a1b185bb123ff650bbd7c2f055b[m
+Author: Eden Figueroa Diaz <efigueroadiaz96@gmail.com>
+Date:   Wed Jun 17 11:50:37 2020 -0500
+
+    pruebaformularios
+
+[33mcommit 4f3522cb40f0de8f1dfc6266af11c2d73fb5116a[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Tue Jun 16 23:59:43 2020 -0500
+
+    update
+
+[33mcommit d26b06f7ed95270e89b318ffb580d50499a32c60[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Tue Jun 16 23:57:39 2020 -0500
+
+    update
+
+[33mcommit 4a75393335e62bd73ae44969bc736bb25b69e14e[m
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Tue Jun 16 23:05:04 2020 -0500
+
+    Editar Alumno
+
+[33mcommit 7894eb25719d93fc3334ffde5d6c177873c64646[m
+Merge: 5d7c055 e6d67c5
+Author: curiel_ <curielemm@gmail.com>
+Date:   Tue Jun 16 22:01:31 2020 -0500
+
+    Merge branch 'master' of https://gitlab.com/controlescolars/controlescolar
+
+[33mcommit 5d7c05505a8de73251e8c4e18afcacae3a2cfc45[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Tue Jun 16 22:00:49 2020 -0500
+
+    registro usuario e institucion
+
+[33mcommit e6d67c5bae8ba89e75565e2b93c5f5e4f2b3f4f2[m
+Merge: 923a6db 6bc403e
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Tue Jun 16 01:52:14 2020 -0500
+
+    Merge branch 'master' of gitlab.com:controlescolars/controlescolar
+
+[33mcommit 923a6dbb3b7064c0b2395fd421d2540687a0073e[m
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Tue Jun 16 01:51:28 2020 -0500
+
+    ningun cambio
+
+[33mcommit 6bc403e85aa1447cdbf82c3e9fb7ca6f27950956[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Mon Jun 15 23:23:43 2020 -0500
+
+    notificacion para registro y activacion
+
+[33mcommit d71ae3e307819b2fce70dc9edb4aa51f03ad83b7[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Mon Jun 15 17:33:59 2020 -0500
+
+    notificacion de correo
+
+[33mcommit 32afbfbee4c457fef7ec2786ab82fe477a1eb466[m
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Sat Jun 13 00:37:41 2020 -0500
+
+    Formularios de Alumno y Materia Corregidos
+
+[33mcommit 6d495ca6f2e55866bc59cb9ca6dbb53c6aecb964[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Fri Jun 12 17:06:46 2020 -0500
+
+    Eliminacion de Usuarios
+
+[33mcommit f7b17b3d70786cf6ef1205fecf30bb2b210b8678[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Fri Jun 12 16:36:02 2020 -0500
+
+    Paginacion y Autorizacion de Usuarios
+
+[33mcommit 714160d4a1ddc7015d2a5bcc98589e3ee8d67290[m
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Fri Jun 12 00:18:31 2020 -0500
+
+    insercion alumnos
+
+[33mcommit 54ce7ecb71f42d791901281b0afc7d2180bbef81[m
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Thu Jun 11 23:06:10 2020 -0500
+
+    correciones formulario alumnos
+
+[33mcommit a0c7e78548fadbaf98df11990790a0413d90934c[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Thu Jun 11 19:58:51 2020 -0500
+
+    administrador
+
+[33mcommit 4288436aa1b578b8a6e98463761326383762487c[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Wed Jun 10 14:39:14 2020 -0500
+
+    actualizacion login
+
+[33mcommit 69ee8d577f6c0c1ad0198dc33aa19bfc1379760b[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Fri Jun 5 23:35:35 2020 -0500
+
+    error branch
+
+[33mcommit b4ebda7da89b6641a646bb020a28b40a67b8af29[m
+Merge: b8bf2bd c254ded
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Fri Jun 5 23:26:55 2020 -0500
+
+    Formularios Alumno y Materia
+
+[33mcommit c254dedebda47080c2faa0903020d275b34ddaea[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Fri Jun 5 23:14:59 2020 -0500
+
+    instituciones delete
+
+[33mcommit b8bf2bd4f2047862e85aa74d5d8b31b71a41f706[m
+Author: Gelasio <geelassio96@gmail.com>
+Date:   Fri Jun 5 22:26:19 2020 -0500
+
+    Archivos formularios Alumnos y Materia
+
+[33mcommit f59974f7d0e2feb55349b314005b22d15a54d4d8[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Thu Jun 4 01:12:05 2020 -0500
+
+    registro de instituciones
+
+[33mcommit 2761b4116357242c30980a4a4599b0bfcd91f960[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Tue Jun 2 23:23:08 2020 -0500
+
+    roles
+
+[33mcommit 11726b313683a42b4fd8d64112926a4a75efd90a[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Sat May 30 23:51:26 2020 -0500
+
+    modificacion dashboard
+
+[33mcommit dad839559c9cce1920cdb1b4d5f0093bf821c082[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Sat May 30 23:00:32 2020 -0500
+
+    layout
+
+[33mcommit c0b43a2a829e0e3af3324a38a41092a6f0ba8bcb[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Sat May 30 00:26:16 2020 -0500
+
+    dashboard
+
+[33mcommit 5c10c3440f7cf8b0e7f1fea5bd5081986b2a2117[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Fri May 29 22:40:04 2020 -0500
+
+    welcome
+
+[33mcommit 9e6fc57bdaa75eafd373e0cb9d222f5efef315d1[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Sat May 23 13:49:46 2020 -0500
+
+    laravel 5.7
+
+[33mcommit 5719424e2cd36913b142ca2e9b48687c88167720[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Sat May 23 13:30:37 2020 -0500
+
+    eliminacion de laravel 7
+
+[33mcommit 4ebd5a51a0297dd8a89f16d2550da551789a01ec[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Sat May 23 13:26:01 2020 -0500
+
+    actualizacion
+
+[33mcommit d6af456be4aae99859d474bfa78f5d76f2c8ee40[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Wed May 20 19:18:41 2020 -0500
+
+    login
+
+[33mcommit c2b6e37fc8869c3ff0a4dd7a6111c528a3a98b9c[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Wed May 20 14:29:41 2020 -0500
+
+    login
+
+[33mcommit c263dc2e1403f64526cba1c7f8772bad3d7d5626[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Wed May 20 10:51:54 2020 -0500
+
+    nombre bd
+
+[33mcommit a1450c31602ea10a060b2de45d5878fddcbb351f[m
+Author: Emmanuel Curiel <curielemm@gmail.com>
+Date:   Wed May 20 15:49:41 2020 +0000
+
+    Update .env.example
+
+[33mcommit b3a5c3422f3ecd8a293b0f8aa84366ed398253f2[m
+Author: curiel_ <curielemm@gmail.com>
+Date:   Thu May 7 18:43:41 2020 -0500
+
+    laravel
+
+[33mcommit d3e7e9781c2e8cf841137c1536fb46909c6e0f69[m
+Author: Emmanuel Curiel <curielemm@gmail.com>
+Date:   Thu May 7 23:10:36 2020 +0000
+
+    Initial commit

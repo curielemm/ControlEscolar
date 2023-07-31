@@ -1,0 +1,53 @@
+
+header{
+     color: #d00;
+     padding: 0.6em;
+     font-weight: bold;
+     text-align: center;
+     width: 100%;
+}
+section{
+  margin: 15px;
+ width: 50%;
+ align-self: flex-end;
+  border: 2px solid #005;
+  border-radius: 10px;
+}
+
+nav2{
+  margin: 15px;
+  border: 2px solid #005;
+  border-radius: 10px;
+}
+
+nav3{
+  padding: 0px;
+  margin: 15px;
+
+}
+
+nav4{
+  padding: 0;
+  margin: 0;
+  text-align: right;
+  margin: 15px;
+}
+nav5{
+  margin: 15px;
+  border: 2px solid #005;
+  border-radius: 10px;
+}
+
+nav{
+  text-align: right;
+  padding: 0.6em;
+  font-weight: bold;
+display: inline-block;
+width: 100%
+}
+nav a{
+
+  color: white;
+  padding: 0.6em;
+background-color: #ff8000;
+}
